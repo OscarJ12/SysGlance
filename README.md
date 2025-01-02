@@ -53,10 +53,6 @@ The system metrics will refresh every 2 seconds. Press `Ctrl+C` to exit.
 - Linux-based operating system
 - GCC compiler (for building from source)
 
-## Screenshots
-
-![SysGlance in Action](https://example.com/screenshot.png) *(Add a real screenshot URL)*
-
 ## Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
@@ -69,4 +65,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, please contact:
 - GitHub: [OscarJ12](https://github.com/OscarJ12)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: [oscarjackson2002@gmail.com](mailto:oscarjackson2002@gmail.com)
