@@ -65,4 +65,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, please contact:
 - GitHub: [OscarJ12](https://github.com/OscarJ12)
-- Email: [oscarjackson2002@gmail.com](mailto:oscarjackson2002@gmail.com)
